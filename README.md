@@ -5,7 +5,7 @@ The objective of this project is to develop a model or system that can predict t
 
 Key Components:
 
-Data Collection: The data set which is used to build this model is gatheed from Kaggle website.
+Data Collection: The data set which is used to build this model is gathered from Kaggle website.
 
 Data Preprocessing: Clean and preprocess the collected data to remove noise, handle missing values, and normalize the data for better model performance. This step 
 is used for better understanding of the data.
